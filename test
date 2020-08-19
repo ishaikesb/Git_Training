@@ -10,6 +10,7 @@
     </employee>  
     <employee>  
         <name>Jai</name>   
-        <email>jai87@gmail.com</email>  
+        <email>jai87@gmail.com</email> 
+        <loc>Hyd</loc>
     </employee>  
 </employees> 
